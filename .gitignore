@@ -3,3 +3,4 @@
 .gitignore
 cmake-build-debug/
 ./main.c
+./compile_commands.json
