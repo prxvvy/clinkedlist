@@ -1,0 +1,8 @@
+./run
+./build
+./debug
+.cache/
+.git/
+.gitignore
+cmake-build-debug/
+CMakeLists.txt
