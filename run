@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./build && cmake-build-debug/cpractices
+./build && cmake-build-debug/clinkedlist
